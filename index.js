@@ -32,6 +32,7 @@ const Calculator = {
 function actionApplyer(int, array) {
   if (array.length === 0) {
     return int
-}  else {
+  }  else {
     return ((int * 2) + 1000) % 7
-} }
+  } 
+}
