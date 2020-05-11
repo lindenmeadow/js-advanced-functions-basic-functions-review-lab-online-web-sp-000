@@ -34,5 +34,5 @@ function actionApplyer(int, array) {
     return int
   }  else {
     return ((int * 2) + 1000) % 7
-  } 
+  }
 }
